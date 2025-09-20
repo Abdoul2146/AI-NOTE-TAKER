@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "259318464607",
+    "project_id": "scribesync-f96ec",
+    "storage_bucket": "scribesync-f96ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259318464607:android:66daf8caa2ccdfe8909bea",
+        "android_client_info": {
+          "package_name": "com.example.scribesync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259318464607-ok0ipoejv37pc48n8l51bsbbmtccqh81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scribesync",
+            "certificate_hash": "b483e098b75515e0e18a7a06bba984e0c76d73c9"
+          }
+        },
+        {
+          "client_id": "259318464607-qpg3k2dc5r9rd0eligbndnpsoja7ie8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEfMwhovLFPkrPSclqE2hHI_1HstqA0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259318464607-qpg3k2dc5r9rd0eligbndnpsoja7ie8o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "259318464607-bii56meqfb1cm08f3fcsr7munsfgfhvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.scribesync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
